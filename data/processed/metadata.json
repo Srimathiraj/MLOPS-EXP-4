@@ -1,0 +1,15 @@
+{
+  "train_shape": [
+    120,
+    4
+  ],
+  "test_shape": [
+    30,
+    4
+  ],
+  "target_names": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ]
+}
